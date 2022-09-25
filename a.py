@@ -4,8 +4,8 @@ from telethon import TelegramClient, events
 
 # sample API_ID from https://github.com/telegramdesktop/tdesktop/blob/f98fdeab3fb2ba6f55daf8481595f879729d1b84/Telegram/SourceFiles/config.h#L220
 # or use your own
-api_id = 17349
-api_hash = '344583e45741c457fe1862106095a5eb'
+api_id = 10747864
+api_hash = '67a56abbf6cf56d610d42e2b1911f85e'
 
 # fill in your own details here
 phone = 'YOUR_PHONE_NUMBER'
